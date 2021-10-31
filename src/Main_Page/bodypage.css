@@ -1,0 +1,113 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.container1 {
+  height:auto;
+  display: flex;
+  flex-direction: row;
+}
+.body-left {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 2% 2% 5% 8%;
+  text-align: left;
+}
+.text1 {
+  color: #0b132a;
+  font-family: 'Rubik', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.text2 {
+  color: #4F5665;
+  font-size: 14px;
+  line-height: 1.5;
+  font-family: 'Rubik', sans-serif;
+}
+.connect-btn {
+  background-color: #f53838;
+  width: 12vw;
+  height: 7vh;
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  border-radius: 7px;
+  font-weight: bold;
+  border: none;
+  text-align: center;
+  font-size: 16px;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  padding: 3% 10%;
+}
+.icon-1 {
+  flex: 1;
+  flex-direction: row;
+  /* background-color: red; */
+}
+.icon-2 {
+  flex: 1;
+  flex-direction: row;
+  /* background-color: green; */
+}
+.icon-3 {
+  flex: 1;
+  flex-direction: row;
+  /* background-color: yellow; */
+}
+.svg{
+  display: flex;
+  flex: 1;
+}
+.teachers1 {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: -14%;
+}
+.teachers {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text3 {
+  color: "#0B132A";
+  font-weight: bold;
+  font-family: 'Rubik', sans-serif;
+  font-size: 18px;
+}
+.text4 {
+  color: "#4F5665";
+  font-weight: normal;
+  font-size: 16px;
+  font-family: 'Rubik', sans-serif;
+}
+
+
+
+
+
+.body-left-content1 {
+  padding-top: 8%;
+}
+.body-left-content2 {
+  padding-top: 5%;
+}
+.body-left-content3 {
+  padding-top: 3%;
+}
+.body-right {
+  flex: 1;
+  padding-top: 2%;
+}
+.Image{
+  width: 90%;
+}
