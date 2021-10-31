@@ -4,7 +4,7 @@
   flex-direction: row;
   /* flex-wrap: wrap; */
   /* background-color: #F7F7F7; */
-  background-color: aqua;
+  /* background-color: aqua; */
   padding: 2%;
   height: 55vh;
 }
@@ -44,7 +44,7 @@
   padding-bottom: 0; */
 }
 ul {
-  list-style-image: url("icon.png");
+  /* list-style-image: url("icon.png"); */
   line-height: 30px;
   display: inline-block;
 }

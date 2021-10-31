@@ -1,20 +1,44 @@
 .Nav_Container{
    display: flex;
    flex-direction: row;
-   background-color: black; 
+   /* background-color: black;  */
+   justify-content: center;
+   align-items: center;
+   /* background-color: #A8ACB6; */
 }
 .Nav_List{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;
     align-items: center;   
     list-style-type: none;
 }
 ul{
     list-style-image:none 
+    /* color: #4F5665; */
 }
-.li a{
+li {
+  
+    font-family: 'Rubik', sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
     text-decoration: none;
     /* padding: 15%; */
     /* justify-content: space-between; */
+}
+Link{
+    color: #4F5665;
+}
+.Signin{
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    padding-right: 15px;
+}
+.Signup{
+    font-family: 'Rubik', sans-serif;
+    border-radius:30px ;
+    border: 2px solid #F53855;
+    color: #F53855;
+    padding: 5px;
 }
