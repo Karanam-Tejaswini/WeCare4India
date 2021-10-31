@@ -1,0 +1,41 @@
+.Cards-sec{
+    /* display:flex; */
+    /* justify-content:flex-start */
+}
+.Cards-section{
+    /* display:flex; */
+    /* margin-top:4% !important; */
+}
+.Cards-1{
+    /* margin-top:px; */
+    /* display:flex; */
+
+
+}
+.card-heading-1{
+    text-align: left;
+
+}
+.btn{
+    border-radius: 50px;
+    border: 1px solid #F53855;
+    /* background-color:rgb(64, 73, 73); */
+    height:40px;
+    color: #F53855;
+    font-weight: bold;
+    margin-right: 130px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color:#ffffff;
+}
+.btn-1{
+    display:flex;
+    border-radius: 50px;
+    margin-left:-60px;
+    justify-content: flex-end;
+    background-color:#ffffff;
+    /* text-align: end; */
+ 
+
+
+}
